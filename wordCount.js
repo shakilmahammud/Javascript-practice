@@ -1,4 +1,4 @@
-var speech = "I'm a Good Person. I'm also Dedicated person ";
+var speech = ["I'm a Good Person. I'm also Dedicated person " ];
 var cout=0;
 for (var i=0; i<speech.length;i++){
     var char=speech[i];
